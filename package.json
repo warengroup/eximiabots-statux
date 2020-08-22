@@ -1,0 +1,22 @@
+{
+  "name": "eximiabots-statux",
+  "version": "0.0.1",
+  "description": "StatuX is announcer bot to indicate service status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warengroup/eximiabots-statux.git"
+  },
+  "author": "EximiaBots by Warén Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warengroup/eximiabots-statux/issues"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "node-fetch": "^2.6.0"
+  }
+}
